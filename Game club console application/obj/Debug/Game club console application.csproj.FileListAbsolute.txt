@@ -1,0 +1,7 @@
+C:\Users\white\source\repos\Game club console application\Game club console application\bin\Debug\Game club console application.exe.config
+C:\Users\white\source\repos\Game club console application\Game club console application\bin\Debug\Game club console application.exe
+C:\Users\white\source\repos\Game club console application\Game club console application\bin\Debug\Game club console application.pdb
+C:\Users\white\source\repos\Game club console application\Game club console application\obj\Debug\Game club console application.csproj.AssemblyReference.cache
+C:\Users\white\source\repos\Game club console application\Game club console application\obj\Debug\Game club console application.csproj.CoreCompileInputs.cache
+C:\Users\white\source\repos\Game club console application\Game club console application\obj\Debug\Game club console application.exe
+C:\Users\white\source\repos\Game club console application\Game club console application\obj\Debug\Game club console application.pdb
